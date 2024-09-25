@@ -1,7 +1,7 @@
 {
     "name": "Chistes del Equipo",
     "short_name": "Chistes",
-    "start_url": "index.php",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#6200ea",
