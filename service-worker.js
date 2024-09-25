@@ -3,8 +3,8 @@ self.addEventListener('install', (event) => {
         caches.open('v1').then((cache) => {
             return cache.addAll([
                 '/',
-                '/index.php',
-                '/help.php',
+                '/index.html',
+                '/help.html',
                 '/styles.css',
                 '/scripts.js',
                 '/assets/icons/logo-192.png', // Icono de 192x192
